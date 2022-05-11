@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1652292307466,
-  "index": "/index.html",
+  "timestamp": 1652292669305,
+  "index": "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,12 +11,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "/index.html",
-        "/main.399efb52b7e337c9.js",
-        "/manifest.webmanifest",
-        "/polyfills.e7ff238e70d5d113.js",
-        "/runtime.b97e7514ff789008.js",
-        "/styles.ae6bcee2fd6125c1.css"
+        "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/index.html",
+        "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/main.3f7abbb77d713454.js",
+        "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/manifest.webmanifest",
+        "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/polyfills.3fbcb10252ecb1ca.js",
+        "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/runtime.24f5e25ff92a6ce7.js",
+        "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/styles.f8b15e41c22a6f6a.css"
       ],
       "patterns": []
     },
@@ -28,34 +28,34 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/assets/icons/icon-128x128.png",
+        "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/assets/icons/icon-144x144.png",
+        "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/assets/icons/icon-152x152.png",
+        "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/assets/icons/icon-192x192.png",
+        "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/assets/icons/icon-384x384.png",
+        "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/assets/icons/icon-512x512.png",
+        "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/assets/icons/icon-72x72.png",
+        "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "d222fd6fe02560169c1b0c68d9a37688b9f09580",
-    "/assets/icons/icon-144x144.png": "42f7f43d4a205961787265c46fe7f4e77ae48f87",
-    "/assets/icons/icon-152x152.png": "8c9b7280e87b644d5b31b1e1708ae377ee012506",
-    "/assets/icons/icon-192x192.png": "d92d49baaf2900c0d4e5dcde766a815500e17623",
-    "/assets/icons/icon-384x384.png": "8e325bebb652aaefa87b21a9f323f8809c6d0494",
-    "/assets/icons/icon-512x512.png": "0977e393cda90c9e9decb8e8d19dde095f15f15d",
-    "/assets/icons/icon-72x72.png": "7d9438f4097f6fb4b350e3b48581ae986cbdb0c2",
-    "/assets/icons/icon-96x96.png": "3f62bf824976c44a99a3e7e0f1fab1a141281baf",
-    "/index.html": "4ce412b6c9a4a7811861984310908daf3a1a86b3",
-    "/main.399efb52b7e337c9.js": "2c9d42b2b14acb90f5ca23d48183975b5eb61ee3",
-    "/manifest.webmanifest": "0ea6214de2cbe8a4bb9a25f41c14711acc7224d8",
-    "/polyfills.e7ff238e70d5d113.js": "d8130bc1dbd44aa158a9c07412070b344d15ef0e",
-    "/runtime.b97e7514ff789008.js": "50ffdd95f2dd5793be241b6f0684abc4b499e024",
-    "/styles.ae6bcee2fd6125c1.css": "584de26577df0b05f695de50720c91e077974b4d"
+    "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/assets/icons/icon-128x128.png": "d222fd6fe02560169c1b0c68d9a37688b9f09580",
+    "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/assets/icons/icon-144x144.png": "42f7f43d4a205961787265c46fe7f4e77ae48f87",
+    "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/assets/icons/icon-152x152.png": "8c9b7280e87b644d5b31b1e1708ae377ee012506",
+    "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/assets/icons/icon-192x192.png": "d92d49baaf2900c0d4e5dcde766a815500e17623",
+    "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/assets/icons/icon-384x384.png": "8e325bebb652aaefa87b21a9f323f8809c6d0494",
+    "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/assets/icons/icon-512x512.png": "0977e393cda90c9e9decb8e8d19dde095f15f15d",
+    "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/assets/icons/icon-72x72.png": "7d9438f4097f6fb4b350e3b48581ae986cbdb0c2",
+    "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/assets/icons/icon-96x96.png": "3f62bf824976c44a99a3e7e0f1fab1a141281baf",
+    "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/index.html": "85628a40f136845518590ac59bd4043081898b4a",
+    "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/main.3f7abbb77d713454.js": "2a93f8aab3df09bbf68b1294c04f259c250e3c69",
+    "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/manifest.webmanifest": "0ea6214de2cbe8a4bb9a25f41c14711acc7224d8",
+    "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/polyfills.3fbcb10252ecb1ca.js": "408142e9c6e6185094e05a06b1143fba38425efa",
+    "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/runtime.24f5e25ff92a6ce7.js": "3e16c8c8018bf5e9c9981935c133ebc66b7608d4",
+    "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/styles.f8b15e41c22a6f6a.css": "6c03daddae6c523f9f9f227f2ff0e86a18a10234"
   },
   "navigationUrls": [
     {
