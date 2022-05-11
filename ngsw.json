@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1652297427872,
+  "timestamp": 1652297655609,
   "index": "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/index.html",
   "assetGroups": [
     {
@@ -16,7 +16,7 @@
         "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/manifest.webmanifest",
         "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/polyfills.e7ff238e70d5d113.js",
         "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/runtime.b97e7514ff789008.js",
-        "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/styles.ae6bcee2fd6125c1.css"
+        "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/styles.a2e27f9806d05452.css"
       ],
       "patterns": []
     },
@@ -50,12 +50,12 @@
     "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/assets/icons/icon-512x512.png": "0977e393cda90c9e9decb8e8d19dde095f15f15d",
     "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/assets/icons/icon-72x72.png": "7d9438f4097f6fb4b350e3b48581ae986cbdb0c2",
     "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/assets/icons/icon-96x96.png": "3f62bf824976c44a99a3e7e0f1fab1a141281baf",
-    "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/index.html": "4b294724a71bcca3d5ddb10536763881f32e22b0",
+    "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/index.html": "d714a85211de89be89ef015b1523900a0cc5ca03",
     "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/main.ef1cf6ae934a8220.js": "d75e922cbeaf32852ceda57308e30d1cd943e6c8",
     "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/manifest.webmanifest": "e17765b154d00f83e74133e06e689aa9b291a75b",
     "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/polyfills.e7ff238e70d5d113.js": "d8130bc1dbd44aa158a9c07412070b344d15ef0e",
     "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/runtime.b97e7514ff789008.js": "50ffdd95f2dd5793be241b6f0684abc4b499e024",
-    "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/styles.ae6bcee2fd6125c1.css": "584de26577df0b05f695de50720c91e077974b4d"
+    "https://github.com/scm-kaungeainsan.github.io/kaungeain-pwa/styles.a2e27f9806d05452.css": "8707893bd71d69be0bef7f8f3f164d43b9121972"
   },
   "navigationUrls": [
     {
